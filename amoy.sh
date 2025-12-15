@@ -41,8 +41,8 @@ fi
 echo "Server timezone detected: $TIMEZONE"
 
 # Set username dan password menjadi candra
-CUSTOM_USER="ntexhaust"
-PASSWORD="ntexhaust"
+CUSTOM_USER="amoy"
+PASSWORD="2602"
 echo "Generated username: $CUSTOM_USER"
 echo "Generated password: $PASSWORD"
 
